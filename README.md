@@ -23,4 +23,5 @@ print(f"Desks: {len(desks)}")
 
 Result: 420 Desks Found. (Claim is FALSE)
 
-
+# Description of Code
+The code stated above is scanning through the .ifc file for the number of desks found with the name "furniture_office-desks-tables_lavoro-design_advance". The script opens up the model and finds all related objects with that title and then prints the number at the end.
